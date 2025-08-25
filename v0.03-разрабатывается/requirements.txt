@@ -1,3 +1,0 @@
-pyspellchecker
-pytest
-beautifulsoup4
